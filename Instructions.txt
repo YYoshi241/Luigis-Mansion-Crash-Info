@@ -1,0 +1,29 @@
+LMDM Cras Instructions. Will replace video footage for now :(
+
+requirements o3ds(xl), not 2ds or n3ds, internet, and Luigi's Mansion Dark Moon (DUH)
+
+go to scarescraper. 
+choose online game, from here choose worldwide or friends (doesn't matter)
+create scraper (settings don't matter).
+you now have 2 options. both have the same result.
+
+OPTION 1 "Closing this scarescraper..." screen
+on player list push B. a menu will pop  up. DO NOT CLOSE IT.
+then turn off wireless by flicking the wireless switch.
+an error message will show up, press A or tap OK.
+press up on the circlepad or dpad so the curser is highlighted over yes.
+press A
+it crashes. Yeah!
+
+OPTION 2 "closing will reset settings..." screen
+on player list press Y. then press B. it will show a menu. DO NOT CLOSE IT.
+then turn off wireless by flicking the wireless switch.
+an error message will show up, press A or tap OK.
+press up on the circlepad or dpad so the curser is highlighted over yes.
+press A
+it crashes. Yeah!
+
+IF your internet is NOT stupid, please upload video footage somewhere. 
+
+check out my twitter @AceFace711
+and github https://github.com/YYoshi241/
